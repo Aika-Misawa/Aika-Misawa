@@ -19,12 +19,6 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) 
 
-<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aika-Misawa&theme=gruvbox_light&hide_border=false)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aika-Misawa&show_icons=true&theme=gruvbox_light)](https://github.com/Aika-Misawa/github-readme-stats)<br/>
-
-
 ### 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aika-misawa-762b81300/) 
 
@@ -32,3 +26,8 @@
 [![](https://visitcount.itsvg.in/api?id=Aika-Misawa&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aika-Misawa&theme=gruvbox_light&hide_border=false)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aika-Misawa&show_icons=true&theme=gruvbox_light)](https://github.com/Aika-Misawa/github-readme-stats)<br/>
