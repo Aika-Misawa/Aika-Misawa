@@ -29,5 +29,5 @@
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aika-Misawa&theme=gruvbox_light&hide_border=false)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aika-Misawa&show_icons=true&theme=gruvbox_light)](https://github.com/Aika-Misawa/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aika-Misawa&theme=gruvbox_light&hide_border=false)<br/>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aika-Misawa&show_icons=true&theme=gruvbox_light)](https://github.com/Aika-Misawa/github-readme-stats)<br/> -->
