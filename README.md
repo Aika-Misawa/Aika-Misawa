@@ -19,9 +19,6 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) 
 
-### 🌐 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aika-misawa-762b81300/) 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Aika-Misawa&icon=5&color=12)](https://visitcount.itsvg.in)
 
