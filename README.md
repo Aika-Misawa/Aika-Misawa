@@ -1,12 +1,12 @@
 <!-- Simple bio and stats -->
 
-# 💫 Aika Misawa:
-⚕️Health Data Analyst sharing my projects and passions in everything healthcare data related<br/>
+## 🪷 Aika Misawa:
+👩🏻‍💻Health Data Analyst sharing my projects and passions in everything healthcare data related<br/>
 👩🏻‍🎓BSc. Neuroscience 👩🏻‍🎓Health Science Minor<br/>
 👩🏻‍🎓MSc. Bioinformatics<br/>
-📚Currently learning SQL, Tableau, PowerBI
+📚Currently learning SQL, Tableau, PowerBI<br/>
 
-# 💻 Tech Stack:
+## 💻 Languages and Tools:
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -19,28 +19,16 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) 
 
+<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aika-Misawa&theme=gruvbox_light&hide_border=false)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aika-Misawa&show_icons=true&theme=gruvbox_light)](https://github.com/Aika-Misawa/github-readme-stats)<br/>
 
 
-
-
-## 🌐 Contact Me:
+### 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aika-misawa-762b81300/) 
 
-<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aika-Misawa&show_icons=true&theme=gruvbox_light)](https://github.com/Aika-Misawa/github-readme-stats)
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aika-Misawa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aika-Misawa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aika-Misawa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aika-Misawa&theme=bear&no-frame=false&no-bg=false&margin-w=4)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Aika-Misawa&icon=5&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aika-Misawa&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
