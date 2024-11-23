@@ -4,7 +4,7 @@
 👩🏻‍💻Health Data Analyst sharing my projects and passions in everything healthcare data related<br/>
 👩🏻‍🎓BSc. Neuroscience 👩🏻‍🎓Health Science Minor<br/>
 👩🏻‍🎓MSc. Bioinformatics<br/>
-📚Currently learning SQL, Tableau, PowerBI<br/>
+📚Currently learning SQL, Tableau, AWS, Snowflake<br/>
 
 ## 💻 Languages and Tools:
 
